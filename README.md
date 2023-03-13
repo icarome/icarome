@@ -1,6 +1,6 @@
 ## Hello there! I'm Icaro Nascimento
 
-- 🔭 Back-end developer and Systems of Information student at Federal University of Bahia
+- 🔭 Back-end developer and Computer Engineering student at Federal University of Bahia
 - 🌱 Studying Ruby on rails, Python, C++
 - 😄 Pronouns: his/him
 - 👍 English/Portuguese speaker
